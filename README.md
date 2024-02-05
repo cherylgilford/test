@@ -6,6 +6,6 @@ Here I will give information about the pre-processing pipline of [fMrI prep](htt
 ## First level analysis
 
 * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+   * Nested bullet
+   * Sub-nested bullet etc
+* Bullet list item 2
